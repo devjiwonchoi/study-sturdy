@@ -1,0 +1,3 @@
+- Lamda supports only Linux based container images
+- Container image with max size 10GB
+- permissions to function - IAM role

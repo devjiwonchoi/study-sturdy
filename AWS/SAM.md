@@ -1,0 +1,1 @@
+- Transform template is mandatory for SAM
